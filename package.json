@@ -1,0 +1,19 @@
+{
+  "name": "welp",
+  "version": "1.0.0",
+  "description": "\"Welp v1\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ellenkramp/Welp.git"
+  },
+  "author": "\"Ellen Kramp\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ellenkramp/Welp/issues"
+  },
+  "homepage": "https://github.com/ellenkramp/Welp#readme"
+}
