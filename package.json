@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/ellenkramp/Welp/issues"
   },
-  "homepage": "https://github.com/ellenkramp/Welp#readme"
+  "homepage": "https://github.com/ellenkramp/Welp#readme",
+  "dependencies": {
+    "ejs": "^2.5.8",
+    "express": "^4.16.3"
+  }
 }
